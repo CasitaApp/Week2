@@ -28,7 +28,7 @@ _Emphasis_
 >>> Level three
 
 
-![Estrellita]("C:\Users\miyak\Pictures\IMG20220507102133.jpg")
+![Alt Estrellita]("C:\Users\miyak\Pictures\IMG20220507102133.jpg")
 
 ![Alt Estrella](IMG20220507102133.jpg)
 
