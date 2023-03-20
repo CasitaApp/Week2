@@ -30,3 +30,5 @@ _Emphasis_
 [Google](http://google.com/)
   
 ![IMG20220507183841](https://user-images.githubusercontent.com/39076992/226254740-07b3c519-51b7-4649-9d4e-54950aec6292.jpg)
+
+![foto](https://github.com/CasitaApp/Week2/blob/main/IMG20220507134526.jpg)
