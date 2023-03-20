@@ -27,8 +27,8 @@ _Emphasis_
 >>
 >>> Level three
 
-![]("C:\Users\miyak\Pictures\IMG20220507102133.jpg")
-
 ![Alt Estrella](IMG20220507102133.jpg)
 
 [Google](http://google.com/)
+  
+![IMG20220507102133](https://user-images.githubusercontent.com/39076992/226254627-74ac12cf-ebff-4026-b839-8b12a23ba825.jpg)
